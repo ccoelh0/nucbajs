@@ -1,0 +1,25 @@
+// Closures
+
+Los closures en programación se refieren a funciones que tienen acceso a variables de un ámbito externo (padre), y pueden mantener ese acceso incluso después de que la función haya terminado de ejecutarse.
+
+// Scope: 
+
+El "scope" (ámbito o alcance) en programación se refiere a la región del código donde una determinada variable es visible y puede ser accedida.
+
+// POO
+
+La programación orientada a objetos es un paradigma de programación que organiza el código alrededor de objetos, que pueden contener datos en forma de propiedades (también llamadas atributos) y código en forma de métodos.
+
+JavaScript es un lenguaje de programación multiparadigma, lo que significa que admite varios estilos de programación, incluida la programación orientada a objetos (POO). Aunque JavaScript no sigue el modelo de clases tradicional como en lenguajes como Java o C++, se puede decir que es un lenguaje orientado a objetos gracias a su enfoque de prototipos.
+
+// Metodos: 
+
+En JavaScript, los métodos son funciones que están asociadas a objetos. Estos métodos representan acciones que pueden ser realizadas por el objeto al que están vinculados. 
+
+// This
+
+En JavaScript, la palabra clave 'this' se refiere al objeto actual en el que se está ejecutando el código.
+
+// Rest operator
+
+El método reduce() en JavaScript se utiliza para reducir los elementos de un array a un solo valor. Toma una función de "reducción" y aplica esa función acumulativa a cada elemento del array, de izquierda a derecha, para producir un único resultado
